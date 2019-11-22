@@ -1,0 +1,16 @@
+RawFile: pig.raw
+Resolution: 512 512 134
+Format: UINT16
+BasisVector1: 1 0 0
+BasisVector2: 0 1 0
+BasisVector3: 0 0 0.7052631578947368
+DataRange: 0 4095
+ValueRange: 0 65535
+Unit: arb. unit.
+comment: To prevent scanning artifacts the piggy bank contains chocolate coins
+courtesy: Michael Bauer
+Computer Graphics Group, University of Erlangen, Germany
+http://www9.cs.fau.de
+description: Piggy Bank
+parameter: CT Scan
+Siemens Volume Zoom Somatom Plus 4
